@@ -17,8 +17,13 @@
   Comportamento:
   calculator.add(1, 1) // Retorno: 2;
   calculator.div(3, 2) // Retorno: 1;
-*/
+*/ 
 
-const calculator = {};
+const calculator = {
+  add: (x, y) => x + y,
+  mult: (x, y) => x * y,
+  div: (x, y) => Math.floor(x / y),
+  sub: (x, y) => x - y,
+};
 
 module.exports = calculator;
