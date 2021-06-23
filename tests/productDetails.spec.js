@@ -45,6 +45,7 @@ describe('6 - Implemente os casos de teste para a função `productDetails`', ()
     //assert.strictEqual(Object.values(productDetails('Alcool gel').productId.substring(productId.length -3)), Object.values(productDetails('Máscara').productId.substring(productId.length -3)));
     //assert.strictEqual(Object.values(productDetails('Alcool gel', 'Máscara')[0].details.productId.substring(productId.length -3)), Object.values(productDetails('Alcool gel', 'Máscara')[1].details.productId.substring(productId.length -3)));
     //assert.strictEqual(productDetails('Alcool gel', 'Máscara')[0].details.productId.substring(productId.length -3), productDetails('Alcool gel', 'Máscara')[1].details.productId.substring(productId.length -3));
+    //dica de Luis Medeiros Turma 5 no slack:
     assert.ok(productDetails('Alcool gel', 'Máscara')[0].details.productId.endsWith('123'));
     assert.ok(productDetails('Alcool gel', 'Máscara')[1].details.productId.endsWith('123'));
   });
