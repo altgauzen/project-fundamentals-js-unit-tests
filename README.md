@@ -1,6 +1,19 @@
-### Termos de acordos
+# project-fundamentals-js-unit-tests
 
-Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
+## Meus Comentários
+
+Este foi um projeto individual feito na Trybe no Módulo de Fundamentos onde implementei funções a partir de requisitos e testes unitários, utilizando a biblioteca do JEST.
+
+Aprendí neste Projeto a: 
+ - Escrever testes unitários para funções utilizando o módulo Assert do NodeJS para verificar o correto funcionamento dessas funções;
+ - A partir de testes já implementados, escrever funções de forma que elas atendam aos testes propostos;
+ - Escrever testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
+
+
+Aproveitamento: 88.89% de aprovação pelos avaliadores da Trybe.
+
+---
+
 
 # Boas vindas ao repositório do projeto de ES6 e Testes Unitários!
 
@@ -20,7 +33,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
   - [O que deverá ser desenvolvido](#o-que-será-desenvolvido)
   - [Desenvolvimento](#desenvolvimento)
   - [Data de entrega](#data-de-entrega)
-- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
+- [Instruções para entregar seu projeto](#instruções-para-um código legível utilizando as High Order Functionsentregar-seu-projeto)
   - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
   - [Durante o desenvolvimento](#durante-o-desenvolvimento)
 - [Como desenvolver](#como-desenvolver)
